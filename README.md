@@ -1,9 +1,9 @@
 Routing app
 ===========
 
-## How to build
+## How to clone and build
 
-Assuming you've already unzipped the zip..
+`git clone https://github.com/hansnemec/routing.git`
 
 `cd routing`
 
